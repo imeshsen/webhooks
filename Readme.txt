@@ -1,1 +1,1 @@
-webhook 1
+webhook
